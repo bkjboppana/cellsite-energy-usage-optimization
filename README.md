@@ -1,6 +1,6 @@
 # cellsite-energy-usage-optimization
 * Used clsutering algorithms to optmize energy utilization of cell sites
-  * Data munging is performed using Pandas library
+  * Data munging is performed using pandas and EDA is done using seaborn
   * Clustering is implemented using Kmeans, AgglomerativeClustering, GaussianMixture. Algorithm with lowest silhouette_score is used for clusterign cell sites
  
  * Conclusion
