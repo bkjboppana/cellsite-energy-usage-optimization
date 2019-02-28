@@ -4,4 +4,4 @@
   * Clustering is implemented using Kmeans, AgglomerativeClustering, GaussianMixture. Algorithm with lowest silhouette_score is used for clusterign cell sites
  
  * Conclusion
-   Based on utilization and location of cell cites in non-peak hours, 10% of the cell sites can be turned of to save power
+   * Based on utilization and location of cell cites in non-peak hours, 10% of the cell sites can be turned of to save power
